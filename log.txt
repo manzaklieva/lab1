@@ -1,0 +1,11 @@
+commit f5e86938c5a1ce3f2ecac336f8ed461067793612 (HEAD -> logging, origin/master, master)
+Author: unknown <aleksandra.manzaklieva@students.finki.ukim.mk>
+Date:   Wed Apr 4 17:18:00 2018 +0200
+
+    modify l1.txt
+
+commit 9d9a6401632a8e34b26957b2e876bf0766c7b3a3
+Author: unknown <aleksandra.manzaklieva@students.finki.ukim.mk>
+Date:   Wed Apr 4 17:16:24 2018 +0200
+
+    Initial commit
